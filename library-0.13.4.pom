@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.yausername.youtubedl-android</groupId>
+  <artifactId>library</artifactId>
+  <version>0.13.4</version>
+  <packaging>aar</packaging>
+</project>
