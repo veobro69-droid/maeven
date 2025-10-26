@@ -1,7 +1,29 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+
   <groupId>com.github.yausername.youtubedl-android</groupId>
   <artifactId>library</artifactId>
   <version>0.13.4</version>
   <packaging>aar</packaging>
+
+  <name>youtubedl-android library</name>
+  <description>Android wrapper for youtube-dl with FFmpeg support</description>
+  <url>https://github.com/yausername/youtubedl-android</url>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>yausername</id>
+      <name>Yausername</name>
+      <email>yausername@example.com</email>
+    </developer>
+  </developers>
 </project>
